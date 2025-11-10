@@ -53,6 +53,6 @@ You can also find me on other social media:
 [💼 LinkedIn](https://www.linkedin.com/in/justinscottsmith/) — Professional network  
 [🌐 Website](https://dev.nexxai.dev) — Portfolio and projects
 
-## my holopin board
+## 📌 My holopin board
 
 [![@nexxai's Holopin board](https://holopin.io/api/user/board?user=nexxai)](https://holopin.io/@nexxai)
