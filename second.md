@@ -1,17 +1,23 @@
-# Hey there! 👋 I'm JT
+# Hey there! 👋 I'm JT Smith
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+🚀)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Laravel+Full-Stack+Developer;Based+in+Calgary%2C+Canada;Open+Source+Contributor;Building+Elegant+Solutions+🚀)
   
 </div>
+
+## 👨‍💻 About Me
+
+I'm a **Laravel full-stack developer** based in Calgary, Canada, passionate about building elegant solutions to complex problems. I love working with modern web technologies and contributing to the open-source community.
+
+🌐 Check out my site: [dev.nexxai.dev](https://dev.nexxai.dev)
 
 ## 🛠️ Tech Stack
 
 ```php
 <?php
 
-class Developer extends Human
+class JTSmith extends Developer
 {
     public function getCurrentStack(): array
     {
@@ -23,9 +29,14 @@ class Developer extends Human
         ];
     }
 
+    public function getLocation(): string
+    {
+        return '📍 Calgary, Canada';
+    }
+
     public function getCurrentFocus(): string
     {
-        return 'Building elegant solutions to complex problems';
+        return 'Building elegant solutions with Laravel';
     }
 }
 ```
@@ -72,6 +83,7 @@ class Developer extends Human
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinscottsmith/)
+  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev.nexxai.dev)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexxai)
   
 </div>
