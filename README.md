@@ -50,7 +50,6 @@ You can also find me on other social media:
 [📚 Blog](https://nexxai.dev) — How-tos and tutorials  
 [🐦 Twitter](https://x.com/nexxai) — Tech thoughts and updates  
 [📺 Twitch](https://twitch.tv/nexxai) — Live coding sessions  
-[💼 LinkedIn](https://www.linkedin.com/in/justinscottsmith/) — Professional network  
 [🌐 Website](https://dev.nexxai.dev) — Portfolio and projects
 
 ## 📌 My holopin board
