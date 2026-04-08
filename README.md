@@ -1,6 +1,6 @@
 # Hi, I'm JT
 
-I'm a Senior Architect at [Lululemon](https://www.lululemon.com) and love working with Laravel and modern web technologies. All opinions are my own.
+I love working with Laravel and modern web technologies. All opinions are my own.
 
 For more than 2 decades, I've been using PHP (since the Movable Type days!), Laravel (since v5.4), TypeScript, JavaScript, and dabbling in Python and Rust across various industries. My journey has been driven by a single passion: **making people's lives easier**.
 
